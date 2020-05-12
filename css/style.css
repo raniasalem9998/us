@@ -1,0 +1,10 @@
+body {border: solid black;background-color:#F0F2F0 ;}
+h1{background-color: black;text-align: center;color: white;size: 120px;}
+header ul li{display:inline; padding:0px;margin: 9%;
+     ;color: white;border: 0px
+    ;align-items: center;margin-left: 40px;}
+header nav ul li a{text-decoration: none ;color: white; }
+nav ul {background-color: black;}
+table,th,td {border:2px solid black;border-collapse: collapse;margin-left: 15%;width:40%}
+
+
