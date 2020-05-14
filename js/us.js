@@ -7,15 +7,15 @@ document.write(d)
 
 
 var like;
-var per = prompt("Do you like our page so far? yes/no");
+var per = prompt("Ready? yes/no");
 if (per == "no") {
-    like = "Ohh .. please contact us why.";
+    like = "NANI?!";
 }
 if (per == "yes") {
-   like = "Thanks!";
+   like = "Thanks";
 }
 else {
-    like = "NANI?!";
+    like = "REFRESH";
 }
 document.write('<h3>'+ like +'</h3>')
 
