@@ -15,7 +15,7 @@ if (per == "yes") {
    like = "yahoo";
 }
 else {
-    like = "REFRESH";
+    confirm ("REFRESH");
 }
 document.write('<h3>'+ like +'</h3>')
 
