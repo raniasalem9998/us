@@ -1,4 +1,5 @@
 "use strict"
+alert('do you like our proj so far?')
 var person = prompt('do you like our proj so far?', 'yes/no');
   if (person != yes) {
     document.getElementById("demo").innerHTML =
@@ -10,7 +11,9 @@ var person = prompt('do you like our proj so far?', 'yes/no');
   }
   else { NANI!}
 
-
+button(
+onclick="alert('Ouch!')")
+Click me!.</button>
 
 function startTime() {
     var today = new Date();
@@ -28,3 +31,6 @@ function startTime() {
     return i;
   }
   console.log(startTime)
+
+  //other try
+  
