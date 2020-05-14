@@ -12,7 +12,7 @@ if (per == "no") {
     like = "NANI?!";
 }
 if (per == "yes") {
-   like = "Thanks";
+   like = "yahoo";
 }
 else {
     like = "REFRESH";
