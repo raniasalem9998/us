@@ -32,5 +32,4 @@ function startTime() {
   }
   console.log(startTime)
 
-  //other try
   
