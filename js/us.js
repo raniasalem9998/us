@@ -5,12 +5,13 @@ var d = new Date();
 var n = d.getUTCDay();
 document.write(d)
 
+funtion correct(){ }
+}
 function hru() {
     var like;
     var per = prompt("Ready? yes/no")
-
-    while (!(per == 'yes' || per == 'no')) { confirm("REFRESH"); }
-
+    while (!(per == 'yes' || per == 'no')) { confirm("REFRESH")};
+   
     if (per == "no") {
         like = "NANI?!";
     }
