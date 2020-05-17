@@ -10,7 +10,7 @@ funtion correct(){ }
 function hru() {
     var like;
     var per = prompt("Ready? yes/no")
-    while (!(per == 'yes' || per == 'no')) { confirm("REFRESH")};
+    while (!(per == 'yes' || per == 'no')) {var per = prompt("Ready? yes/no"))};
    
     if (per == "no") {
         like = "NANI?!";
